@@ -5,7 +5,8 @@ from docx import Document
 
 import os
 
-TOKEN = os.getenv("TOKEN")
+# TOKEN = os.getenv("TOKEN")
+TOKEN="7553779459:AAHz9_Q8Jd7cZBrqrdBHu4qv6Kg2dv3YOcQ"
 
 # Database yaradılması
 def create_db():
